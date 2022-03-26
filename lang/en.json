@@ -66,11 +66,6 @@
       "willpower": "Will",
       "arcana": "Arc"
     },
-    "biography": {
-      "origin": "Origin",
-      "youth": "Youth",
-      "lastFewYears": "The Last Few Years"
-    },
     "personals": {
       "species": "Species",
       "culture": "Culture",
